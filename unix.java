@@ -6,5 +6,7 @@ Learning devops
 
 bangalore
 
+Karnataka
+
 pin:560076
 
